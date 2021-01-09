@@ -1,6 +1,7 @@
 package se.lexicon.ReineMoberg;
 
 public class CalculatorImpl implements Calculator{
+
     @Override
     public int addition(int num1, int num2) {
         return num1 + num2;
